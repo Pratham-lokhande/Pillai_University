@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "student-1",
+      "description": "Student portrait 1",
+      "imageUrl": "https://picsum.photos/seed/123/400/400",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "student-2",
+      "description": "Student portrait 2",
+      "imageUrl": "https://picsum.photos/seed/124/400/400",
+      "imageHint": "student woman"
+    },
+    {
+      "id": "university-hero",
+      "description": "University Campus",
+      "imageUrl": "https://picsum.photos/seed/campus/1200/400",
+      "imageHint": "university campus"
+    }
+  ]
 }
