@@ -1,7 +1,8 @@
 
 # Student management system
 
-Build a Student Management System full-stack application using frontend, backend, and database technologies.
+Build a Student Management System to develop a full-stack application using frontend, backend, and database technologies.
+
 
 <img width="1918" height="1078" alt="Dashboard" src="https://github.com/user-attachments/assets/c34e6e9b-b0a8-4c33-9a53-72c6b8e75ec4" />
 <img width="1918" height="1078" alt="New Updates" src="https://github.com/user-attachments/assets/4a11acf1-01e3-4622-8778-9aebc41f82c1" />
